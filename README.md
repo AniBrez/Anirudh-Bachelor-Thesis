@@ -1,0 +1,1 @@
+This repository contains the files relevant to the thesis for the Bachelor of Science in Physics programme at the University of Groningen. Attached is the thesis and the Python script for figures included within the report. 
